@@ -18,7 +18,7 @@ Digital marketing
 Mobile: 0318-535435
 Email: mnidal414@gmail.com
 LinkedIn: [(https://www.linkedin.com/in/muhammad-nidal-44118a292/)]
-YouTube: [[Your YouTube Channel URL](https://www.youtube.com/@MuhammadNidal-qf5du)]
+YouTube: [(https://www.youtube.com/@MuhammadNidal-qf5du)]
 Let's connect and build something amazing together!
 
 <!---
