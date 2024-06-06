@@ -4,7 +4,7 @@
 📆 2 Years of Experience
 
 Quick Overview:
-Frontend: JavaScript, React.js, Tailwind CSS
+Frontend: JavaScript, Jquery, React.js, Tailwind CSS
 Backend: .NET Core,.Net Mvc ,.Net WebApi currently learning Node.js, Express.js, NestJS
 Database: SQL, currently learning MongoDB
 Digital marketing
