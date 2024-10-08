@@ -1,12 +1,12 @@
 - 👋 Muhammad Nidal
 👨‍💻 Software Engineer
 💼 Currently at TechTrack,Hmis360 Peshawar, Pakistan
-📆 2 Years of Experience at BKInfoTech.
+📆 1 Years of Experience at BKInfoTech.
 
 Quick Overview:
 Frontend: JavaScript, Jquery, React.js, Tailwind CSS
-Backend: .NET Core,.Net Mvc ,.Net WebApi Node.js, Express.js, NestJS and php laravel .
-Database: SQL, currently learning MongoDB
+Backend: .NET Core,.Net Mvc ,.Net WebApi Node.js, Express.js,  and php laravel .
+Database: SQL, MongoDB
 Digital marketing
 
 🌟 Passionate about crafting seamless and efficient software solutions. With a strong foundation in both frontend and backend technologies, I thrive on turning complex problems into user-friendly applications. My expertise in SQL ensures robust and scalable database management.
