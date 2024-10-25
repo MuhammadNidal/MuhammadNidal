@@ -5,7 +5,7 @@
 
 Quick Overview:
 Frontend: JavaScript, Jquery, React.js, Tailwind CSS
-Backend: .NET Core,.Net Mvc ,.Net WebApi Node.js, Express.js,  and php laravel .
+Backend: .NET Core,.Net Mvc ,.Net WebApi Node.js, Express.js .
 Database: SQL, MongoDB
 Digital marketing
 
