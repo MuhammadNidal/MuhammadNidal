@@ -1,7 +1,7 @@
 - 👋 Muhammad Nidal
 👨‍💻 Software Engineer
 💼 Currently at TechTrack,Hmis360 Peshawar, Pakistan
-📆 1 Years of Experience at BKInfoTech.
+📆 2 Years of Experience at BKInfoTech.
 
 Quick Overview:
 Frontend: JavaScript, Jquery, React.js, Tailwind CSS
