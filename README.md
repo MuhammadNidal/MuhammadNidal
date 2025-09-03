@@ -1,6 +1,6 @@
 - 👋 Muhammad Nidal
 👨‍💻 Software Engineer
-💼 Currently at TechTrack,Hmis360 Peshawar, Pakistan
+💼 Currently at TechTrack, and culyte Peshawar, Pakistan
 📆 2 Years of Experience at BKInfoTech.
 
 Quick Overview:
