@@ -1,25 +1,22 @@
-- 👋 Muhammad Nidal
-👨‍💻 Software Engineer
-💼 Currently at TechTrack, and culyte Peshawar, Pakistan
-📆 2 Years of Experience at BKInfoTech.
+👋 Hi, I'm Muhammad Nidal
 
-Quick Overview:
-Frontend: JavaScript, Jquery, React.js, Tailwind CSS
-Backend: .NET Core,.Net Mvc ,.Net WebApi Node.js, Express.js .
-Database: SQL, MongoDB
-Digital marketing
+💻 Full-Stack Developer (MERN & .NET Core) | React Native | AI & Machine Learning Enthusiast
+With over 2.5 years of experience, I specialize in building scalable, high-performance applications across web, enterprise, and mobile platforms.
 
-🌟 Passionate about crafting seamless and efficient software solutions. With a strong foundation in both frontend and backend technologies, I thrive on turning complex problems into user-friendly applications. My expertise in SQL ensures robust and scalable database management.
+🚀 Tech Stack
+Frontend: React.js, TypeScript, JavaScript, Tailwind CSS
+Backend: Node.js, Express.js, .NET Core (MVC & API)
+Mobile: React Native (iOS & Android)
+Database: MongoDB, SQL Server
+Other: Python (Learning), AI, Machine Learning
 
-🚀- Constantly exploring new technologies and staying updated with industry trends. Currently learning Node.js, Express.js, NestJS, and MongoDB to expand my backend development skills.
+💡 About Me
+I’m passionate about writing clean, maintainable code and transforming complex requirements into robust, production-ready solutions.
+Currently, I’m expanding my expertise into Python, Machine Learning, and AI-driven application development, exploring ways to combine modern full-stack engineering with intelligent automation.
 
-📞 Contact Information:
-
-Mobile: 0318-535435
+📫 Connect with Me
 Email: mnidal414@gmail.com
-LinkedIn: [(https://www.linkedin.com/in/muhammad-nidal-44118a292/)]
-YouTube: [(https://www.youtube.com/@MuhammadNidal-qf5du)]
-Let's connect and build something amazing together!
+LinkedIn: linkedin.com/in/muhammad-nidal-334370380
 
 <!---
 MuhammadNidal/MuhammadNidal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
