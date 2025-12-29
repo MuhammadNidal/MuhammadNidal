@@ -66,39 +66,6 @@ Currently, I’m expanding my expertise in **Python, Machine Learning, and AI-dr
 
 </div>
 
----
-
-<!-- ================= GITHUB STATS ================= -->
-### 📊 GitHub Stats
-
-<div align="center">
-
-#### 📈 Overall Performance
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadNidal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="190"/>
-
-<br/><br/>
-
-#### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNidal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-#### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNidal&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<!-- ================= TROPHIES ================= -->
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadNidal&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
----
-
 <p align="center">
   <i>"Clean code always looks like it was written by someone who cares."</i>
 </p>
