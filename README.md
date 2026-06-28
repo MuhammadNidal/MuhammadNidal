@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there, I'm Muhammad Nidal 👋</h1>
 <h3 align="center">
-🚀 Full-Stack Developer (MERN & .NET Core) | React Native | AI & ML Enthusiast
+🚀 Full-Stack Developer (MERN & .NET Core) | React Native | Agentic AI Enthusiast
 </h3>
 
 <!-- ================= CONTACT ================= -->
@@ -23,13 +23,13 @@
 <!-- ================= ABOUT ================= -->
 ### 👨‍💻 About Me
 
-I’m a **Full-Stack Developer with 2.5+ years of experience** specializing in building **scalable, high-performance web, enterprise, and mobile applications**.  
+I’m a **Full-Stack Developer with 4+ years of experience** specializing in building **scalable, high-performance web, enterprise, and mobile applications**.  
 I focus on **clean, maintainable code** and transforming complex requirements into **production-ready solutions**.
 
-Currently, I’m expanding my expertise in **Python, Machine Learning, and AI-driven applications**, combining modern full-stack engineering with intelligent automation.
+Currently, I’m expanding my expertise in **Python, Agentic AI**, combining modern full-stack engineering with intelligent automation.
 
 - 🔭 **Working with:** MERN Stack, .NET Core, React Native  
-- 🌱 **Learning:** Python, AI, Machine Learning  
+- 🌱 **Learning:** Python,Agentic AI   
 - ⚡ **Strengths:** Performance optimization & clean architecture  
 
 ---
