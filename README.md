@@ -20,7 +20,7 @@
 <!-- ================= ABOUT ================= -->
 ### 👨‍💻 About Me
 
-I’m a **Full-Stack Developer with 4+ years of experience** specializing in building **scalable, high-performance web, enterprise, and mobile applications**.  
+I’m a **Full-Stack Developer with 3+ years of experience** specializing in building **scalable, high-performance web, enterprise, and mobile applications**.  
 I focus on **clean, maintainable code** and transforming complex requirements into **production-ready solutions**.
 
 Currently, I’m expanding my expertise in **Python, Agentic AI**, combining modern full-stack engineering with intelligent automation.
