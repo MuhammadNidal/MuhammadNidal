@@ -80,16 +80,10 @@ I care about **clean, maintainable code**, performance, and turning complex requ
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNidal&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=f472b6&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 </p>
 
-<!-- The snake below is generated automatically every night by
-     .github/workflows/snake.yml — it appears once the workflow
-     has run (a few minutes after this README is pushed). -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadNidal/MuhammadNidal/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadNidal/MuhammadNidal/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/MuhammadNidal/MuhammadNidal/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
-  </picture>
-</p>
+<!-- The contribution snake is an optional extra: it needs the workflow
+     in .github/workflows/snake.yml, which GitHub will not let this
+     connection push (403). Add it from the GitHub website if wanted,
+     then re-add the snake image below the activity graph. -->
 
 ---
 
