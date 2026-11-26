@@ -69,21 +69,23 @@ I care about **clean, maintainable code**, performance, and turning complex requ
 ---
 
 <!-- ================= CONTRIBUTIONS ================= -->
-### 🐍 My Contributions
+### 📈 Contributions
+
+<p align="center"><i>654 contributions in the last year — and counting.</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📈_654_contributions_in_the_last_year-22D3EE?style=for-the-badge" alt="654 contributions in the last year" />
-  <img src="https://img.shields.io/badge/🔥_Building_every_day-A78BFA?style=for-the-badge" alt="Building every day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadNidal&theme=github_dark" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadNidal&theme=github_dark" alt="Contribution stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNidal&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=f472b6&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadNidal&theme=github_dark" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadNidal&theme=github_dark" alt="Most committed language" />
 </p>
 
-<!-- The contribution snake is an optional extra: it needs the workflow
-     in .github/workflows/snake.yml, which GitHub will not let this
-     connection push (403). Add it from the GitHub website if wanted,
-     then re-add the snake image below the activity graph. -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadNidal&theme=github_dark&utcOffset=5" alt="Most productive times" />
+</p>
 
 ---
 
